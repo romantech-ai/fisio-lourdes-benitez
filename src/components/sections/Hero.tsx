@@ -108,7 +108,7 @@ export function Hero() {
           >
             <div className="aspect-[4/5] rounded-3xl bg-gradient-to-br from-primary/20 to-accent/20 overflow-hidden relative">
               <Image
-                src="/images/hero.jpg"
+                src="/images/hero.webp"
                 alt="Lourdes Benítez - Fisioterapeuta en Badajoz"
                 fill
                 className="object-cover"
